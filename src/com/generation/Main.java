@@ -54,3 +54,16 @@ public class Main {
 
 
 //set establece valores (para que demos valores) y get devuelve valores (el valor establecido lo regresa)
+
+
+
+
+
+
+
+
+
+
+
+//difernecia entre clases abstractas e interfaces
+//https://codigofacilito.com/articulos/clases-abstractas-interfaces-java
